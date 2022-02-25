@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   description: "SwaggerとAPI Gatewayのサンプルです。"
   version: "1.0.0"
-  title: "OST AWS SAM & Swagger API"
+  title: "AWS SAM & Swagger API"
 basePath: /${StageName}
 tags:
   - name: "Greeding"
